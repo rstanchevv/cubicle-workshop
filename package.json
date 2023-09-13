@@ -1,0 +1,28 @@
+{
+  "name": "cubicle-workshop",
+  "version": "1.0.0",
+  "description": "cubicle-workshop SoftUni",
+  "main": "/src/index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstanchevv/cubicle-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstanchevv/cubicle-workshop/issues"
+  },
+  "homepage": "https://github.com/rstanchevv/cubicle-workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "uniquid": "^1.1.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
